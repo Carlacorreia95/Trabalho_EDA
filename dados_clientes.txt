@@ -1,0 +1,4 @@
+1;John Doe;50.00;111111111;Rua de São Geraldo 69 4704-535 Braga;
+2;Jane Smith;60.00;222222222;Rua de São Geraldo 70 4704-537 Braga;
+3;Bob Johnson;7.00;333333333;Largo de São Tiago 47 4704-532 Braga;
+
